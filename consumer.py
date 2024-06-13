@@ -75,7 +75,13 @@ def carChargercallback(ch, method, properties, body):
     
     sys.stdout.flush()
     
-    if CurrentCar[1] != model or CurrentCar[0] != make: 
+
+    if currentCharge == 'ERROR': 
+        logger.info(f" [x] Received  {carinfo} at Time {currentTimeStamp}")
+        logger.info(f" [o] An Error occurred when Charging and will be disconnected")
+        currentCharge = 0
+        send_email_alert(sender_email, sender_password, sender_email, "Car Charging Error", f"An Error occurred when Charging and will be disconnected")
+    elif CurrentCar[1] != model or CurrentCar[0] != make: 
         logger.info(f" [x] New Car Detected ")
         CurrentCar = (make, model)
         chargeQueue.clear()
@@ -84,11 +90,6 @@ def carChargercallback(ch, method, properties, body):
         logger.info(f" [x] Received  {carinfo} at Time {currentTimeStamp}")
         logger.info(f" [o] Car is done charging at {maxLimit} and will be disconnected")
         send_email_alert(sender_email, sender_password, sender_email, "Car Charging Finished", f"Car is done charging at {maxLimit} and will be disconnected")
-    elif currentCharge == 'ERROR': 
-        logger.info(f" [x] Received  {carinfo} at Time {currentTimeStamp}")
-        logger.info(f" [o] An Error occurred when Charging and will be disconnected")
-        currentCharge = 0
-        send_email_alert(sender_email, sender_password, sender_email, "Car Charging Error", f"An Error occurred when Charging and will be disconnected")
     else:
         if currentCharge == '@':
             currentCharge = 0

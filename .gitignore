@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 config.py
+consumer_out.txt
+emitter_out.txt
+faker_out.txt
+config_out.txt

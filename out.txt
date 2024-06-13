@@ -1,0 +1,211 @@
+2024-06-13 10:25:02,451.configScript.INFO ==================================================
+2024-06-13 10:25:02,451.configScript.INFO Today is 2024-06-13 at 10:25 AM
+2024-06-13 10:25:02,463.configScript.INFO Running on: nt Windows 10
+2024-06-13 10:25:02,463.configScript.INFO Python version:  3.11.4
+2024-06-13 10:25:02,463.configScript.INFO Python path: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project\venv
+2024-06-13 10:25:02,464.configScript.INFO Working dir: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project
+2024-06-13 10:25:02,464.configScript.INFO ==================================================
+2024-06-13 10:25:02,464.configScript.INFO Starting configuration setup.
+Welcome to the configuration setup!
+Would you like to receive Email Notifications (y/n): 2024-06-13 10:25:04,741.configScript.INFO User chose to disable email notifications.
+2024-06-13 10:25:04,741.configScript.INFO Config file created with empty email and password, notifications disabled.
+2024-06-13 10:25:04,741.configScript.INFO Configuration setup complete.
+Configuration setup complete. Your credentials have been saved to config.py.
+2024-06-13 10:25:04,795.faker.INFO ==================================================
+2024-06-13 10:25:04,795.faker.INFO Today is 2024-06-13 at 10:25 AM
+2024-06-13 10:25:04,807.faker.INFO Running on: nt Windows 10
+2024-06-13 10:25:04,808.faker.INFO Python version:  3.11.4
+2024-06-13 10:25:04,808.faker.INFO Python path: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project\venv
+2024-06-13 10:25:04,808.faker.INFO Working dir: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project
+2024-06-13 10:25:04,808.faker.INFO ==================================================
+2024-06-13 10:25:04,808.faker.INFO Header written to the CSV file
+2024-06-13 10:25:04,808.faker.INFO Metadata written for Toyota RAV4 EV with battery size 86 kWh and limit 86%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Toyota RAV4 EV at 2024-06-13 10:42:03 with charge 24%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Toyota RAV4 EV at 2024-06-13 11:06:21 with charge 32%
+2024-06-13 10:25:04,810.faker.WARNING Error occurred for Toyota RAV4 EV at 2024-06-13 10:25:04
+2024-06-13 10:25:04,810.faker.INFO Metadata written for Mazda MX-30 with battery size 69 kWh and limit 69%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:38:35 with charge 2%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 11:08:48 with charge 11%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 11:21:19 with charge 15%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:36:34 with charge 19%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 11:08:41 with charge 25%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:29:27 with charge 30%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:48:45 with charge 31%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:30:58 with charge 40%
+2024-06-13 10:25:04,810.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:29:15 with charge 50%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 11:17:18 with charge 60%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:26:36 with charge 64%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Mazda MX-30 at 2024-06-13 10:53:18 with charge 69%
+2024-06-13 10:25:04,811.faker.INFO Final charge limit reached for Mazda MX-30 at 2024-06-13 10:41:24 with charge 69%
+2024-06-13 10:25:04,811.faker.INFO Metadata written for Lexus UX 300e with battery size 71 kWh and limit 71%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 10:43:35 with charge 13%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 10:50:03 with charge 14%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 11:13:11 with charge 16%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 11:09:03 with charge 19%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 11:04:41 with charge 25%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 11:01:47 with charge 27%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 10:52:10 with charge 36%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 11:21:00 with charge 38%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 10:29:41 with charge 43%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 10:31:57 with charge 44%
+2024-06-13 10:25:04,811.faker.INFO Charging data written for Lexus UX 300e at 2024-06-13 10:40:16 with charge 49%
+2024-06-13 10:25:04,811.faker.WARNING Error occurred for Lexus UX 300e at 2024-06-13 10:25:04
+2024-06-13 10:25:04,812.faker.INFO Metadata written for Bollinger B1 with battery size 55 kWh and limit 55%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 10:48:38 with charge 25%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 10:41:46 with charge 35%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 10:55:04 with charge 40%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 11:05:10 with charge 44%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 11:01:11 with charge 45%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 10:52:11 with charge 50%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 11:24:17 with charge 53%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Bollinger B1 at 2024-06-13 10:25:11 with charge 54%
+2024-06-13 10:25:04,812.faker.WARNING Error occurred for Bollinger B1 at 2024-06-13 10:25:04
+2024-06-13 10:25:04,812.faker.INFO Final charge limit reached for Bollinger B1 at 2024-06-13 10:33:00 with charge 55%
+2024-06-13 10:25:04,812.faker.INFO Metadata written for Canoo Lifestyle Vehicle with battery size 67 kWh and limit 67%
+2024-06-13 10:25:04,812.faker.INFO Charging data written for Canoo Lifestyle Vehicle at 2024-06-13 11:15:17 with charge 67%
+2024-06-13 10:25:04,812.faker.INFO Final charge limit reached for Canoo Lifestyle Vehicle at 2024-06-13 10:26:31 with charge 67%
+2024-06-13 10:25:04,812.faker.INFO Charging data generated and saved to charging_data.csv
+2024-06-13 10:25:10,866.emitter.INFO ==================================================
+2024-06-13 10:25:10,866.emitter.INFO Today is 2024-06-13 at 10:25 AM
+2024-06-13 10:25:10,866.emitter.INFO Running on: nt Windows 10
+2024-06-13 10:25:10,866.emitter.INFO Python version:  3.11.4
+2024-06-13 10:25:10,866.emitter.INFO Python path: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project\venv
+2024-06-13 10:25:10,866.emitter.INFO Working dir: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project
+2024-06-13 10:25:10,866.emitter.INFO ==================================================
+2024-06-13 10:25:10,874.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:10,880.emitter.INFO  [x] Sent ('Toyota', 'RAV4 EV', '86', '86', '@') to car_charger
+2024-06-13 10:25:10,883.emitter.INFO  [x] Sent 2024-06-13 10:42:03 to time_stamp
+2024-06-13 10:25:10,886.emitter.INFO  [x] Sent ('Toyota', 'RAV4 EV', '86', '86', '24') to car_charger
+2024-06-13 10:25:10,890.emitter.INFO  [x] Sent 2024-06-13 11:06:21 to time_stamp
+2024-06-13 10:25:10,894.emitter.INFO  [x] Sent ('Toyota', 'RAV4 EV', '86', '86', '32') to car_charger
+2024-06-13 10:25:10,898.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:10,925.emitter.INFO  [x] Sent ('Toyota', 'RAV4 EV', '86', '86', 'ERROR') to car_charger
+2024-06-13 10:25:10,930.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:10,957.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '@') to car_charger
+2024-06-13 10:25:10,961.emitter.INFO  [x] Sent 2024-06-13 10:38:35 to time_stamp
+2024-06-13 10:25:10,964.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '2') to car_charger
+2024-06-13 10:25:10,970.emitter.INFO  [x] Sent 2024-06-13 11:08:48 to time_stamp
+2024-06-13 10:25:10,973.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '11') to car_charger
+2024-06-13 10:25:10,978.emitter.INFO  [x] Sent 2024-06-13 11:21:19 to time_stamp
+2024-06-13 10:25:10,982.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '15') to car_charger
+2024-06-13 10:25:10,986.emitter.INFO  [x] Sent 2024-06-13 10:36:34 to time_stamp
+2024-06-13 10:25:10,990.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '19') to car_charger
+2024-06-13 10:25:10,994.emitter.INFO  [x] Sent 2024-06-13 11:08:41 to time_stamp
+2024-06-13 10:25:10,998.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '25') to car_charger
+2024-06-13 10:25:11,003.emitter.INFO  [x] Sent 2024-06-13 10:29:27 to time_stamp
+2024-06-13 10:25:11,005.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '30') to car_charger
+2024-06-13 10:25:11,010.emitter.INFO  [x] Sent 2024-06-13 10:48:45 to time_stamp
+2024-06-13 10:25:11,013.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '31') to car_charger
+2024-06-13 10:25:11,018.emitter.INFO  [x] Sent 2024-06-13 10:30:58 to time_stamp
+2024-06-13 10:25:11,021.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '40') to car_charger
+2024-06-13 10:25:11,025.emitter.INFO  [x] Sent 2024-06-13 10:29:15 to time_stamp
+2024-06-13 10:25:11,028.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '50') to car_charger
+2024-06-13 10:25:11,032.emitter.INFO  [x] Sent 2024-06-13 11:17:18 to time_stamp
+2024-06-13 10:25:11,036.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '60') to car_charger
+2024-06-13 10:25:11,039.emitter.INFO  [x] Sent 2024-06-13 10:26:36 to time_stamp
+2024-06-13 10:25:11,043.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '64') to car_charger
+2024-06-13 10:25:11,047.emitter.INFO  [x] Sent 2024-06-13 10:53:18 to time_stamp
+2024-06-13 10:25:11,050.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '69') to car_charger
+2024-06-13 10:25:11,053.emitter.INFO  [x] Sent 2024-06-13 10:41:24 to time_stamp
+2024-06-13 10:25:11,056.emitter.INFO  [x] Sent ('Mazda', 'MX-30', '69', '69', '69') to car_charger
+2024-06-13 10:25:11,060.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:11,064.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '@') to car_charger
+2024-06-13 10:25:11,067.emitter.INFO  [x] Sent 2024-06-13 10:43:35 to time_stamp
+2024-06-13 10:25:11,071.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '13') to car_charger
+2024-06-13 10:25:11,075.emitter.INFO  [x] Sent 2024-06-13 10:50:03 to time_stamp
+2024-06-13 10:25:11,079.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '14') to car_charger
+2024-06-13 10:25:11,082.emitter.INFO  [x] Sent 2024-06-13 11:13:11 to time_stamp
+2024-06-13 10:25:11,085.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '16') to car_charger
+2024-06-13 10:25:11,088.emitter.INFO  [x] Sent 2024-06-13 11:09:03 to time_stamp
+2024-06-13 10:25:11,092.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '19') to car_charger
+2024-06-13 10:25:11,096.emitter.INFO  [x] Sent 2024-06-13 11:04:41 to time_stamp
+2024-06-13 10:25:11,099.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '25') to car_charger
+2024-06-13 10:25:11,103.emitter.INFO  [x] Sent 2024-06-13 11:01:47 to time_stamp
+2024-06-13 10:25:11,106.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '27') to car_charger
+2024-06-13 10:25:11,110.emitter.INFO  [x] Sent 2024-06-13 10:52:10 to time_stamp
+2024-06-13 10:25:11,113.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '36') to car_charger
+2024-06-13 10:25:11,117.emitter.INFO  [x] Sent 2024-06-13 11:21:00 to time_stamp
+2024-06-13 10:25:11,120.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '38') to car_charger
+2024-06-13 10:25:11,123.emitter.INFO  [x] Sent 2024-06-13 10:29:41 to time_stamp
+2024-06-13 10:25:11,128.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '43') to car_charger
+2024-06-13 10:25:11,132.emitter.INFO  [x] Sent 2024-06-13 10:31:57 to time_stamp
+2024-06-13 10:25:11,134.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '44') to car_charger
+2024-06-13 10:25:11,137.emitter.INFO  [x] Sent 2024-06-13 10:40:16 to time_stamp
+2024-06-13 10:25:11,141.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', '49') to car_charger
+2024-06-13 10:25:11,145.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:11,149.emitter.INFO  [x] Sent ('Lexus', 'UX 300e', '71', '71', 'ERROR') to car_charger
+2024-06-13 10:25:11,152.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:11,155.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '@') to car_charger
+2024-06-13 10:25:11,159.emitter.INFO  [x] Sent 2024-06-13 10:48:38 to time_stamp
+2024-06-13 10:25:11,186.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '25') to car_charger
+2024-06-13 10:25:11,189.emitter.INFO  [x] Sent 2024-06-13 10:41:46 to time_stamp
+2024-06-13 10:25:11,193.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '35') to car_charger
+2024-06-13 10:25:11,197.emitter.INFO  [x] Sent 2024-06-13 10:55:04 to time_stamp
+2024-06-13 10:25:11,200.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '40') to car_charger
+2024-06-13 10:25:11,203.emitter.INFO  [x] Sent 2024-06-13 11:05:10 to time_stamp
+2024-06-13 10:25:11,206.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '44') to car_charger
+2024-06-13 10:25:11,210.emitter.INFO  [x] Sent 2024-06-13 11:01:11 to time_stamp
+2024-06-13 10:25:11,214.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '45') to car_charger
+2024-06-13 10:25:11,218.emitter.INFO  [x] Sent 2024-06-13 10:52:11 to time_stamp
+2024-06-13 10:25:11,221.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '50') to car_charger
+2024-06-13 10:25:11,224.emitter.INFO  [x] Sent 2024-06-13 11:24:17 to time_stamp
+2024-06-13 10:25:11,228.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '53') to car_charger
+2024-06-13 10:25:11,231.emitter.INFO  [x] Sent 2024-06-13 10:25:11 to time_stamp
+2024-06-13 10:25:11,234.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '54') to car_charger
+2024-06-13 10:25:11,238.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:11,242.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', 'ERROR') to car_charger
+2024-06-13 10:25:11,245.emitter.INFO  [x] Sent 2024-06-13 10:33:00 to time_stamp
+2024-06-13 10:25:11,248.emitter.INFO  [x] Sent ('Bollinger', 'B1', '55', '55', '55') to car_charger
+2024-06-13 10:25:11,252.emitter.INFO  [x] Sent 2024-06-13 10:25:04 to time_stamp
+2024-06-13 10:25:11,255.emitter.INFO  [x] Sent ('Canoo', 'Lifestyle Vehicle', '67', '67', '@') to car_charger
+2024-06-13 10:25:11,258.emitter.INFO  [x] Sent 2024-06-13 11:15:17 to time_stamp
+2024-06-13 10:25:11,262.emitter.INFO  [x] Sent ('Canoo', 'Lifestyle Vehicle', '67', '67', '67') to car_charger
+2024-06-13 10:25:11,266.emitter.INFO  [x] Sent 2024-06-13 10:26:31 to time_stamp
+2024-06-13 10:25:11,270.emitter.INFO  [x] Sent ('Canoo', 'Lifestyle Vehicle', '67', '67', '67') to car_charger
+2024-06-13 10:25:05,108.consumer.INFO ==================================================
+2024-06-13 10:25:05,108.consumer.INFO Today is 2024-06-13 at 10:25 AM
+2024-06-13 10:25:05,108.consumer.INFO Running on: nt Windows 10
+2024-06-13 10:25:05,108.consumer.INFO Python version:  3.11.4
+2024-06-13 10:25:05,108.consumer.INFO Python path: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project\venv
+2024-06-13 10:25:05,108.consumer.INFO Working dir: C:\Users\Harinya's Desktop\Documents\Data Analytics Masters\StreamingData\streaming-07-project
+2024-06-13 10:25:05,108.consumer.INFO ==================================================
+2024-06-13 10:25:05,116.consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2024-06-13 10:25:10,887.consumer.INFO  [x] New Car Detected 
+2024-06-13 10:25:10,926.consumer.INFO  [x] Received  ['Toyota', 'RAV4 EV', '86', '86', 'ERROR'] at Time "2024-06-13 10:25:04"
+2024-06-13 10:25:10,926.consumer.INFO  [o] An Error occurred when Charging and will be disconnected
+2024-06-13 10:25:10,966.consumer.INFO  [x] New Car Detected 
+2024-06-13 10:25:10,982.consumer.INFO  [x] Received  ['Mazda', 'MX-30', '69', '69', '15'] at Time "2024-06-13 11:21:19"
+2024-06-13 10:25:10,982.consumer.INFO  [o] Current Charging at 15 and is at 21.73913043478261
+2024-06-13 10:25:10,999.consumer.INFO  [x] Received  ['Mazda', 'MX-30', '69', '69', '25'] at Time "2024-06-13 11:08:41"
+2024-06-13 10:25:10,999.consumer.INFO  [o] Current Charging at 14.492753623188406 and is at 36.231884057971016
+2024-06-13 10:25:11,014.consumer.INFO  [x] Received  ['Mazda', 'MX-30', '69', '69', '31'] at Time "2024-06-13 10:48:45"
+2024-06-13 10:25:11,014.consumer.INFO  [o] Current Charging at 5.797101449275362 and is at 44.927536231884055
+2024-06-13 10:25:11,029.consumer.INFO  [x] Received  ['Mazda', 'MX-30', '69', '69', '50'] at Time "2024-06-13 10:29:15"
+2024-06-13 10:25:11,029.consumer.INFO  [o] Current Charging at 5.636070853462158 and is at 72.46376811594203
+2024-06-13 10:25:11,043.consumer.INFO  [x] Received  ['Mazda', 'MX-30', '69', '69', '64'] at Time "2024-06-13 10:26:36"
+2024-06-13 10:25:11,043.consumer.INFO  [o] Current Charging at 4.438405797101449 and is at 92.7536231884058
+2024-06-13 10:25:11,056.consumer.INFO  [x] Received  ['Mazda', 'MX-30', '69', '69', '69'] at Time "2024-06-13 10:41:24"
+2024-06-13 10:25:11,057.consumer.INFO  [o] Car is done charging at 69 and will be disconnected
+2024-06-13 10:25:11,071.consumer.INFO  [x] New Car Detected 
+2024-06-13 10:25:11,085.consumer.INFO  [x] Received  ['Lexus', 'UX 300e', '71', '71', '16'] at Time "2024-06-13 11:13:11"
+2024-06-13 10:25:11,085.consumer.INFO  [o] Current Charging at 16 and is at 22.535211267605636
+2024-06-13 10:25:11,100.consumer.INFO  [x] Received  ['Lexus', 'UX 300e', '71', '71', '25'] at Time "2024-06-13 11:04:41"
+2024-06-13 10:25:11,100.consumer.INFO  [o] Current Charging at 12.676056338028168 and is at 35.2112676056338
+2024-06-13 10:25:11,114.consumer.INFO  [x] Received  ['Lexus', 'UX 300e', '71', '71', '36'] at Time "2024-06-13 10:52:10"
+2024-06-13 10:25:11,114.consumer.INFO  [o] Current Charging at 7.042253521126761 and is at 50.70422535211267
+2024-06-13 10:25:11,128.consumer.INFO  [x] Received  ['Lexus', 'UX 300e', '71', '71', '43'] at Time "2024-06-13 10:29:41"
+2024-06-13 10:25:11,128.consumer.INFO  [o] Current Charging at 4.225352112676056 and is at 60.56338028169014
+2024-06-13 10:25:11,141.consumer.INFO  [x] Received  ['Lexus', 'UX 300e', '71', '71', '49'] at Time "2024-06-13 10:40:16"
+2024-06-13 10:25:11,141.consumer.INFO  [o] Current Charging at 2.9049295774647885 and is at 69.01408450704226
+2024-06-13 10:25:11,155.consumer.INFO  [x] New Car Detected 
+2024-06-13 10:25:11,193.consumer.INFO  [x] Received  ['Bollinger', 'B1', '55', '55', '35'] at Time "2024-06-13 10:41:46"
+2024-06-13 10:25:11,193.consumer.INFO  [o] Current Charging at 35 and is at 63.63636363636363
+2024-06-13 10:25:11,207.consumer.INFO  [x] Received  ['Bollinger', 'B1', '55', '55', '44'] at Time "2024-06-13 11:05:10"
+2024-06-13 10:25:11,207.consumer.INFO  [o] Current Charging at 16.363636363636363 and is at 80.0
+2024-06-13 10:25:11,221.consumer.INFO  [x] Received  ['Bollinger', 'B1', '55', '55', '50'] at Time "2024-06-13 10:52:11"
+2024-06-13 10:25:11,221.consumer.INFO  [o] Current Charging at 6.8181818181818175 and is at 90.9090909090909
+2024-06-13 10:25:11,234.consumer.INFO  [x] Received  ['Bollinger', 'B1', '55', '55', '54'] at Time "2024-06-13 10:25:11"
+2024-06-13 10:25:11,235.consumer.INFO  [o] Current Charging at 3.838383838383838 and is at 98.18181818181819
+2024-06-13 10:25:11,249.consumer.INFO  [x] Received  ['Bollinger', 'B1', '55', '55', '55'] at Time "2024-06-13 10:33:00"
+2024-06-13 10:25:11,249.consumer.INFO  [o] Car is done charging at 55 and will be disconnected
+2024-06-13 10:25:11,263.consumer.INFO  [x] New Car Detected 
