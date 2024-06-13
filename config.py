@@ -1,3 +1,3 @@
 EMAIL = ""
 PASSWORD = ""
-FLAG = FALSE
+FLAG = False
